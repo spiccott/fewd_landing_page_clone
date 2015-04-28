@@ -425,3 +425,14 @@ td,
 th {
   padding: 0;
 }
+
+/*Additional Styling - Make Sections Visible
+========================================================================== */
+
+body {
+  background-color:  LightGray;
+}
+
+div {
+  border: 1px Solid Chocolate;
+}
