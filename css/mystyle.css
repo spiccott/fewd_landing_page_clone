@@ -34,7 +34,8 @@ div {
 	margin-left: 24px;
 }
 
-.top-navigation .links a {
+.top-navigation a {
+	transition: color 0.2s ease;
 	color: #838994; 
 	text-decoration: none;
 }
