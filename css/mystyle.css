@@ -13,6 +13,8 @@ div {
 
 .top-navigation {
 	background-color: #fff;
+	position: fixed;
+	width: 100%;
 }
 
 .top-navigation > .content {
@@ -88,5 +90,20 @@ div {
 	margin-top: 1.25rem;
   	font-size: 1.563rem;
 }
+
+.big-button {
+	display: block;
+	color: #fff;
+	width: 2ems;
+	margin: 1.563rem auto;
+	background-color: #f15a29;
+	text-shadow: none;
+	border-style: none;
+	border-radius: 4px;
+	padding: 16px 26px;
+	font-size: 1.125rem;
+	line-height: 1.33;
+}
+
 
 
