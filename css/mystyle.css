@@ -5,9 +5,9 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-div {
+/*div {
   border: 1px Solid Chocolate;
-}
+}*/
 
 /*Navigation Section*/
 
@@ -140,7 +140,6 @@ div {
 	width: 33.3333333%;
 	display: inline-block;
   	float: left;
-  	border: 1px solid black;
 	box-sizing: border-box;
 }
 
